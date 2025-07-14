@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Data login sederhana (bisa kamu ganti)
 akun = {
-    "Juli Abdurahman": "1124102175"
+    "rahman": "12345"
 }
 
 # Halaman login (HTML ditulis langsung di Python)
